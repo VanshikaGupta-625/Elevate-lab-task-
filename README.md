@@ -1,5 +1,3 @@
-# Elevate-lab-tasks-
-Repository for daily data analytics tasks and projects during the Elevates Labs Internship.
 # Elevate Labs Data Analyst Internship - Task 1 Submission
 **Submitted by:** Vanshika Gupta | **Role:** Data Analyst Intern
 
